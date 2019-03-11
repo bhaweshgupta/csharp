@@ -1,0 +1,7 @@
+C:\Users\765454\Documents\SharpDevelop Projects\calc\calc\bin\Debug\calc.exe
+C:\Users\765454\Documents\SharpDevelop Projects\calc\calc\bin\Debug\calc.pdb
+C:\Users\765454\Documents\SharpDevelop Projects\calc\calc\obj\Debug\calc.csprojResolveAssemblyReference.cache
+C:\Users\765454\Documents\SharpDevelop Projects\calc\calc\obj\Debug\calc.MainForm.resources
+C:\Users\765454\Documents\SharpDevelop Projects\calc\calc\obj\Debug\calc.csproj.GenerateResource.Cache
+C:\Users\765454\Documents\SharpDevelop Projects\calc\calc\obj\Debug\calc.exe
+C:\Users\765454\Documents\SharpDevelop Projects\calc\calc\obj\Debug\calc.pdb
